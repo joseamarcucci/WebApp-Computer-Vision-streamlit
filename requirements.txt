@@ -1,14 +1,16 @@
-# Web application development framework
-streamlit
+matplotlib==3.4.1
+numpy==1.20.2
+pandas==1.2.3
+streamlit==0.79.0
+datetime
+bokeh
+altair
+gspread
+plotly.express
 
-# Python packages
-numpy #==1.17.2
 
-# Computer Vision
-opencv-python==4.1.1.26
-#opencv-contrib-python#==4.1.2.30
 
-# get data from URL
+
 pafy
 youtube-dl
 wget
